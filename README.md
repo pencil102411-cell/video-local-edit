@@ -1,3 +1,6 @@
+> **本仓库已并入 [shanggu-film-pipeline-fqllg](https://github.com/pencil102411-cell/shanggu-film-pipeline-fqllg)（上古影视工作流-FQLLG），不再单独更新。**
+> 新的安装和更新方法见新仓库的 README。这里保留旧版本供查阅，已设为只读归档。
+
 # video-local-edit
 
 **已生成镜头局部修改**：为已有的视频镜头（尤其是 Seedance 生成的镜头）设计局部修改方案，并写出 Seedance 2.5 视频编辑提示词。
